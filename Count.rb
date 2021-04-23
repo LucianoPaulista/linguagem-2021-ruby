@@ -15,10 +15,7 @@ class String
 	# 48 is ASCII code of 0
 	# 57 is ASCII code of 9
 	48 <= code && code <= 57
-  end
-
- 
-
+  end 
 
 def Count(str)	
 	upper, lower, number, special = 0, 0, 0, 0
